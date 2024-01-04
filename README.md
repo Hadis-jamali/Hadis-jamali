@@ -1,7 +1,7 @@
       
   <h1> Hi👋 I'm Hadis Jamali</h1>
   
- - 💻 Currently, I'm a Frontend developer, I have experience in the Html, Css, JavaScript, TypeScript and React. 
+ - 💻 Currently, I'm a Frontend developer, I have experience in Html, Css, JavaScript, TypeScript and React. 
  - 📫 How to reach me: hadisjamali95@gmail.com 
  - ⚡ Fun fact: I'm a Psychologist and Frontend developer
 
