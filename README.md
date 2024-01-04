@@ -1,8 +1,6 @@
       
-   Hi👋 I'm Hadis Jamali     
- - 🌱 I’m currently learning React.js
- - 👯 I’m looking to collaborate in a tech company
- - 💬 Ask me about React, Javascript, Html and Css
+   Hi👋 I'm Hadis Jamali
+   
  - 📫 How to reach me: hadisjamali95@gmail.com 
  - ⚡ Fun fact: I'm a Psychologist and Frontend developer
 
