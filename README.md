@@ -1,6 +1,5 @@
       
-   Hi👋 I'm Hadis Jamali
-   
+  <h1> Hi👋 I'm Hadis Jamali</h1>
  - 📫 How to reach me: hadisjamali95@gmail.com 
  - ⚡ Fun fact: I'm a Psychologist and Frontend developer
 
