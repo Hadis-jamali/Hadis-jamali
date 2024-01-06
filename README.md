@@ -16,7 +16,7 @@
 <a href="#" target="blank"><img align="center" src="https://github.com/Hadis-jamali/Hadis-jamali/assets/132214893/e5f980fe-8b01-4668-b23d-85d40c2002e7" height="30" /></a>
 <a href="#" target="blank"><img align="center" src="https://github.com/Hadis-jamali/Hadis-jamali/assets/132214893/db32ced9-a59b-4562-8baf-906c55fa7b06" height="30" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hadis-jamali&show_icons=true&theme=cobalt" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=Hadis-jamali&show_icons=true&theme=merko" width="400">
 <img src="https://komarev.com/ghpvc/?username=Hadis-jamali&style=flat-square&color=blue" alt=""/>
 
 
