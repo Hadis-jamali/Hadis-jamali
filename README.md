@@ -3,7 +3,7 @@
   
  - 💻 Currently, I'm a Frontend developer, I have experience in Html, Css, JavaScript, TypeScript and React. 
  - 📫 How to reach me: hadisjamali95@gmail.com 
- - ⚡ Fun fact: I'm a Psychologist and Frontend developer.
+ - ⚡ Fun fact : I'm a Psychologist and Frontend developer.
 
   Connect with me :
 
