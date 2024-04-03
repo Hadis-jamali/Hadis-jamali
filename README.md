@@ -1,7 +1,7 @@
       
   <h1> Hi👋 I'm Hadis Jamali</h1>
   
- - 💻 Currently, I'm a Frontend developer, I have experience in JavaScript, Typescript, React, MySQL and Node.js.
+ - 💻 I'm a Frontend developer.
  - ✨ Eager to learn new technologies.
  - 📫 How to reach me : hadisjamali95@gmail.com
  - 😍 My Portfolio : https://hadis-jamali.netlify.app/ 
