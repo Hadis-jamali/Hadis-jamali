@@ -1,7 +1,7 @@
       
   <h1> Hi👋 I'm Hadis Jamali</h1>
   
- - 💻 I'm a Frontend developer.
+ - 💻 I love desining user-friendly websites.
  - ✨ Eager to learn new technologies.
  - 📫 How to reach me : hadisjamali95@gmail.com
  - 😍 My Portfolio : https://hadis-jamali.netlify.app/ 
