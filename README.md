@@ -1,6 +1,8 @@
       
   <h1> Hi👋 I'm Hadis Jamali</h1>
   
+  <a href="#" target="blank"><img align="center" src="https://github.com/Hadis-jamali/Hadis-jamali/assets/132214893/c18b4654-bd01-4aca-8e42-c1e45a4246f4" height="50" /></a>
+
  - 💻 I love desining user-friendly websites.
  - ✨ Eager to learn new technologies.
  - 😍 My Portfolio : https://hadis-jamali.netlify.app/ 
