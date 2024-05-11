@@ -1,7 +1,9 @@
 <h1> Hi👋 I'm Hadis Jamali</h1>   
 
 
-  <div><a href="#" target="blank"><img align="center" display="flex" justify-content="center" src="https://github.com/Hadis-jamali/Hadis-jamali/assets/132214893/8a3ca5b4-c291-42b3-a02d-3d9220fa5ee9" height="70" /></a></div>
+
+
+  <a href="#" target="blank"><img align="center" display="flex" justify-content="center" src="https://github.com/Hadis-jamali/Hadis-jamali/assets/132214893/8a3ca5b4-c291-42b3-a02d-3d9220fa5ee9" height="70" /></a>
 
  - 💻 I love desining user-friendly websites.
  - ✨ Eager to learn new technologies.
