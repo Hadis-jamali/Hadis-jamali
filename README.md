@@ -8,7 +8,7 @@
 
   Connect with me :
 
-<a href="https://www.linkedin.com/in/hadisjamali/" target="blank"><img align="center" src="https://github.com/Hadis-jamali/Hadis-jamali/assets/132214893/1947be52-236b-4a25-9882-3b65d1ebca9b" height="40" /></a>
+<a href="https://www.linkedin.com/in/hadisjamali/" target="blank"><img align="center" src="https://github.com/Hadis-jamali/Hadis-jamali/assets/132214893/1947be52-236b-4a25-9882-3b65d1ebca9b" height="50" /></a>
 
  Languages and Tools:
 
