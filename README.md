@@ -1,7 +1,7 @@
       
   <h1> Hi👋 I'm Hadis Jamali</h1>
   
-  <a href="#" target="blank"><img align="center" src="https://github.com/Hadis-jamali/Hadis-jamali/assets/132214893/c18b4654-bd01-4aca-8e42-c1e45a4246f4" height="50" /></a>
+  <a href="#" target="blank"><img align="center" src="https://github.com/Hadis-jamali/Hadis-jamali/assets/132214893/8a3ca5b4-c291-42b3-a02d-3d9220fa5ee9" height="50" /></a>
 
  - 💻 I love desining user-friendly websites.
  - ✨ Eager to learn new technologies.
@@ -28,4 +28,3 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Hadis-jamali&show_icons=true&theme=algolia" width="400">
 <img src="https://komarev.com/ghpvc/?username=Hadis-jamali&style=flat-square&color=blue" alt=""/>
-
