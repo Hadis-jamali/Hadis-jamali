@@ -8,8 +8,12 @@
    - ✨ Eager to learn new technologies.
    - 😍 My Portfolio : https://hadis-jamali.netlify.app/ 
    - ⚡ Fun fact : I'm a Psychologist and Frontend developer.
+     
 
- 
+
+ ### Connect with me :
+
+<a href="https://www.linkedin.com/in/hadisjamali/" target="blank"><img align="center" src="https://github.com/Hadis-jamali/Hadis-jamali/assets/132214893/1947be52-236b-4a25-9882-3b65d1ebca9b" height="50" /></a>
 
  Languages and Tools:
 
@@ -24,9 +28,7 @@
 <a href="#" target="blank"><img align="center" src="https://github.com/Hadis-jamali/Hadis-jamali/assets/132214893/31feb579-70c4-4fdd-8d3d-ec999192cf1d" height="50" /></a>
 <a href="#" target="blank"><img align="center" src="https://github.com/Hadis-jamali/Hadis-jamali/assets/132214893/8300e6fc-c8c0-4e88-a989-583e1c7f51a9" height="50" /></a>
 
- Connect with me :
 
-<a href="https://www.linkedin.com/in/hadisjamali/" target="blank"><img align="center" src="https://github.com/Hadis-jamali/Hadis-jamali/assets/132214893/1947be52-236b-4a25-9882-3b65d1ebca9b" height="50" /></a>
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Hadis-jamali&show_icons=true&theme=algolia" width="400">
