@@ -1,12 +1,17 @@
 <h1> Hi👋 I'm Hadis Jamali</h1>
 
+
+
 <img src="https://github.com/Hadis-jamali/Hadis-jamali/assets/132214893/4cf1673e-5b3f-4f33-8119-dea671b6c875" align="left" height="200" width="140" padding="20"  />
 
 
- - 💻 I love desining user-friendly websites.
- - ✨ Eager to learn new technologies.
- - 😍 My Portfolio : https://hadis-jamali.netlify.app/ 
- - ⚡ Fun fact : I'm a Psychologist and Frontend developer.
+
+
+ 
+   - 💻 I love desining user-friendly websites.
+   - ✨ Eager to learn new technologies.
+   - 😍 My Portfolio : https://hadis-jamali.netlify.app/ 
+   - ⚡ Fun fact : I'm a Psychologist and Frontend developer.
 
   Connect with me :
 
