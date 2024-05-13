@@ -1,6 +1,6 @@
 <h1> Hi👋 I'm Hadis Jamali</h1>
 
-<img src="https://github.com/Hadis-jamali/Hadis-jamali/assets/132214893/4cf1673e-5b3f-4f33-8119-dea671b6c875" align="left" height="200" width="150" margin="30px" />
+<img src="https://github.com/Hadis-jamali/Hadis-jamali/assets/132214893/4cf1673e-5b3f-4f33-8119-dea671b6c875" align="left" height="190" width="140"  />
 
 
  - 💻 I love desining user-friendly websites.
