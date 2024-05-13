@@ -17,7 +17,7 @@
 
 ### Languages and Tools:
 
-<a href="#" target="blank"><img align="center" src="https://github.com/Hadis-jamali/Hadis-jamali/assets/132214893/4714bcb4-b709-4207-87bf-cc9fac7ae7d9" height="50" /></a>
+
 <a href="#" target="blank"><img align="center" src="https://github.com/Hadis-jamali/Hadis-jamali/assets/132214893/d4d5d69e-3bb2-4282-89b3-121e11e987ba" height="50" /></a>
 <a href="#" target="blank"><img align="center" src="https://github.com/Hadis-jamali/Hadis-jamali/assets/132214893/2e7ebeda-0bad-42b7-901f-449bf2eba571" height="50" /></a>
 <a href="#" target="blank"><img align="center" src="https://github.com/Hadis-jamali/Hadis-jamali/assets/132214893/1c541224-998e-4593-b17d-2f25d5a21ad3" height="50" /></a>
