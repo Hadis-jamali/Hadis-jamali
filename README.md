@@ -7,7 +7,7 @@
    - 💻 I love desining user-friendly websites.
    - ✨ Eager to learn new technologies.
    - 😍 My Portfolio : https://hadis-jamali.netlify.app/ 
-   - ⚡ Fun fact : I'm a Psychologist and Frontend developer.
+   - ⚡ Fun fact : I'm a Psychologist and Web developer.
      
 
 
