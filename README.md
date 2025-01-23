@@ -4,9 +4,8 @@
 
 ### <img src="https://github.com/Hadis-jamali/Hadis-jamali/assets/132214893/678db902-f501-42c1-8c58-7e87806c1102" align="left" height="200" width="250" padding="20"  />
 
-   - 💻 I love designing user-friendly websites.
+   - 💻 I love designing user-friendly web applications.
    - ✨ Eager to learn new technologies.
-   - 😍 My Portfolio : https://hadis-jamali.netlify.app/ 
    - ⚡ Fun fact : I'm a Psychologist and Web Developer.
      
 
